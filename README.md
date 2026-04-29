@@ -141,7 +141,7 @@ docker network inspect joomla-docker_joomla-network
 ![Screen](2026-04-29_12-58-01.png)
 ![Screen](2026-04-29_13-02-11.png)
 ![Screen](2026-04-29_13-11-40.png)
-![Screen](/content/Docker/DockerCompose/img/11.png)
+![Screen](2026-04-29_13-12-09.png)
 ![Screen](/content/Docker/DockerCompose/img/12.png)
 
 ### 5. Управление и полезные команды
