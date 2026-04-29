@@ -138,7 +138,7 @@ docker network inspect joomla-docker_joomla-network
 - [Админ-панель — по адресу http://localhost:8082/administrator](http://localhost:8082/administrator).
 
 ![Screen](/content/Docker/DockerCompose/img/7.png)
-![Screen](/content/Docker/DockerCompose/img/8.png)
+![Screen](2026-04-29_12-58-01.png)
 ![Screen](/content/Docker/DockerCompose/img/9.png)
 ![Screen](/content/Docker/DockerCompose/img/10.png)
 ![Screen](/content/Docker/DockerCompose/img/11.png)
